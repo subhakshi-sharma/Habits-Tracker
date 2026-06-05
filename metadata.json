@@ -1,0 +1,6 @@
+{
+  "name": "Rhythm",
+  "description": "A visually polished monthly habit tracker featuring an interactive spreadsheet-style daily grid, customizable habit targets, and structured weekly analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
